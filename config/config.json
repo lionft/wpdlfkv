@@ -12,7 +12,7 @@
   "MAX_SUPPLY": 2669,
   "WEI_COST": 20000000000000000,
   "DISPLAY_COST": 0.02 ,
-  "GAS_LIMIT": 300000,
+  "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/moonbutts",
   "SHOW_BACKGROUND": true
