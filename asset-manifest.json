@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3cdb51b3.chunk.css",
+    "main.js": "/static/js/main.e356af8b.chunk.js",
+    "main.js.map": "/static/js/main.e356af8b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.06854ab3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.06854ab3.js.map",
+    "static/css/2.cf432edb.chunk.css": "/static/css/2.cf432edb.chunk.css",
+    "static/js/2.d7698e96.chunk.js": "/static/js/2.d7698e96.chunk.js",
+    "static/js/2.d7698e96.chunk.js.map": "/static/js/2.d7698e96.chunk.js.map",
+    "static/js/3.5dc657fb.chunk.js": "/static/js/3.5dc657fb.chunk.js",
+    "static/js/3.5dc657fb.chunk.js.map": "/static/js/3.5dc657fb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.cf432edb.chunk.css.map": "/static/css/2.cf432edb.chunk.css.map",
+    "static/css/main.3cdb51b3.chunk.css.map": "/static/css/main.3cdb51b3.chunk.css.map",
+    "static/js/2.d7698e96.chunk.js.LICENSE.txt": "/static/js/2.d7698e96.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/static/media/74496d9086d97aaeeafb3085e9957668.2ebf1a35.ttf",
+    "static/media/bannerBg.6f6c7737.png": "/static/media/bannerBg.6f6c7737.png",
+    "static/media/gameplay.a3ad36a7.gif": "/static/media/gameplay.a3ad36a7.gif",
+    "static/media/headerBg.97f0e0a1.png": "/static/media/headerBg.97f0e0a1.png",
+    "static/media/image1.70b46db5.png": "/static/media/image1.70b46db5.png",
+    "static/media/image2.6e9b9613.png": "/static/media/image2.6e9b9613.png",
+    "static/media/image3.c4a02461.png": "/static/media/image3.c4a02461.png",
+    "static/media/subBannerBg.edf18847.png": "/static/media/subBannerBg.edf18847.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06854ab3.js",
+    "static/css/2.cf432edb.chunk.css",
+    "static/js/2.d7698e96.chunk.js",
+    "static/css/main.3cdb51b3.chunk.css",
+    "static/js/main.e356af8b.chunk.js"
+  ]
+}
